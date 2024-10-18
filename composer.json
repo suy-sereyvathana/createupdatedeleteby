@@ -2,7 +2,7 @@
   "name": "thana/createupdatedeleteby",
   "autoload": {
     "psr-4": {
-      "Thana\\Createupdatedeleteby\\": "src/"
+      "Thana\\CreateUpdateDeleteBy\\": "src/"
     }
   },
   "authors": [
